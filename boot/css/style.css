@@ -1,0 +1,27 @@
+.img-fluid
+{
+    width: 200px;
+    height: 200px;
+}
+
+.wrapper
+{
+background-color: rgba(0, 0, 0, 0.3);
+width: 20px;
+height: 20px;
+}
+
+h1
+{
+    display: none;
+}
+
+.col-md-4
+{
+    display: none;
+}
+
+h3
+{
+    display: none;
+}
